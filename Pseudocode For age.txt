@@ -1,0 +1,5 @@
+#input what your age is
+#if statement if you are 50 or older
+#print wow your old
+#else you are 50 younger
+#print you need to grow up
